@@ -12,4 +12,4 @@
   - 手语转语音（文本）、语音（文本）转手语模块。
 
 在设计每一个产品的时候，都先考虑一下该产品的价值主张。
-![价值主张画布]([https://upload-images.jianshu.io/upload_images/9407994-78a5a6ed7dcc0d9e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)](https://upload-images.jianshu.io/upload_images/9407994-78a5a6ed7dcc0d9e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240))
+![价值主张画布](https://images.gitee.com/uploads/images/2020/0109/174254_94d1971e_1532279.png "屏幕快照 2020-01-09 17.39.21.png")
